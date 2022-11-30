@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5eFJblzJAXy_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Handling Difficult Calls</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Handling_Difficult_Calls_ORG">
+    <organization identifier="Handling_Difficult_Calls_ORG">
+      <title>Handling Difficult Calls</title>
+      <item identifier="deescalate_difficult_calls_SCO" isvisible="true" identifierref="__5eFJblzJAXy_course_id_RES">
+        <title>Handling Difficult Calls</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5eFJblzJAXy_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6kGXEAbIWeF_M_534_534.png" />
+      <file href="mobile/5mxJQHImxXq_M_266_266.png" />
+      <file href="mobile/6WYcRrblESz_M_244_244.png" />
+      <file href="mobile/5hOxCKOIVsB.jpg" />
+      <file href="mobile/5m59zYKez8d.jpg" />
+      <file href="mobile/5aImI38xr1a.jpg" />
+      <file href="mobile/5gsyZCmhDh6.jpg" />
+      <file href="mobile/6eE86qWTgLj.jpg" />
+      <file href="mobile/5tBJYSJrQwl.jpg" />
+      <file href="mobile/6q18FQkGnOl.png" />
+      <file href="mobile/67AiZ7QJIzK.jpg" />
+      <file href="mobile/5rufOdX75wD_M_812_812.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5chhTVT5oqr.js" />
+      <file href="html5/data/js/5hKH5C1U2gW.js" />
+      <file href="html5/data/js/5vwuM1pb29K.js" />
+      <file href="html5/data/js/5ybEbZM2fYe.js" />
+      <file href="html5/data/js/5zJcMu0dMoX.js" />
+      <file href="html5/data/js/6DIt50Q7UsT.js" />
+      <file href="html5/data/js/6GADInijSvX.js" />
+      <file href="html5/data/js/6IxaEN4g0QW.js" />
+      <file href="html5/data/js/6o8qkywTHjp.js" />
+      <file href="html5/data/js/6Z6ZiufYdrI.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
